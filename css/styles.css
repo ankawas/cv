@@ -1,5 +1,7 @@
 body {
   background-color: Azure;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 hr {
@@ -11,9 +13,29 @@ hr {
 }
 
 h3 {
+  background-color: #eeecda;
+  display:inline-block;
   color: #66BFBF;
 }
 
 h1 {
-  background-color: #66BFBF; 
+  background-color: #eeecda;
+  display:inline-block;
+  border-radius: 5%;
+  color: #41aea9
 }
+
+table {
+  border-spacing: 15px;
+}
+
+p {
+  font-size: 20px;
+}
+
+
+/***************************** ID Selector ************************************
+#mainHeading {
+  background-color: red;
+}
+*/
