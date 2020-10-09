@@ -1,49 +1,42 @@
 body {
   background-color: Azure;
-  display: inline-block;
-  vertical-align: middle;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 hr {
-  border-style: none;
-  border-top-style: dotted;
-  border-color: grey;
-  border-width: 8px;
   width: 5%;
 }
 
-h3 {
-  background-color: #eeecda;
-  display:inline-block;
-  color: #66BFBF;
-}
-
 h1 {
-  background-color: #eeecda;
-  display:inline-block;
-  border-radius: 5%;
-  color: #41aea9
+  font-size: 45px;
+  font-family: 'Dancing Script', cursive;
 }
 
-table {
-  border-spacing: 15px;
+
+h3 {
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 p {
-  font-size: 20px;
+  font-size: 22px;
 }
 
 a {
-  font-size: 20px;
+
 }
 
 
 ul {
-  font-size: 20px;
 }
 
 .contacts {
-  font-size: 30px;
+  font-size: 24px;
 }
 
 
